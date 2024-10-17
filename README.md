@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/vikaskr_07" target="blank"><img src="https://img.shields.io/twitter/follow/vikaskr_07?logo=twitter&style=for-the-badge" alt="vikaskr_07" /></a> </p>
 
-- 🔭 I’m currently working on [Spectra:Live Streaming Platform](https://github.com/vikaskr-07/Spectra)
+- 🔭 I’m currently working on [Spectra:Live Streaming Platform](spectra-three.vercel.app)
 
 - 🌱 I’m currently learning **Docker, Kafka, Serverless architecture, System Design**
 
